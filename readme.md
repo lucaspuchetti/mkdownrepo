@@ -21,3 +21,5 @@ While this is a block of code
 ```
 
 and lastly, this is [a link](https://guides.github.com/features/mastering-markdown/) to master markdown!
+
+C'est tout pour les bases du Markdown
